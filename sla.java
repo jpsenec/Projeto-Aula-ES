@@ -5,6 +5,6 @@ public static void main(String[] args){
 
 int idade = anoAtual-dataNasc
     System.out.println("Sua idade Wasny, é: ", idade)
-
+    System.out.println("OAPAOP")
 
 }
